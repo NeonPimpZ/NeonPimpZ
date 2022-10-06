@@ -8,5 +8,5 @@
 </a>
 
 <a href="https://holopin.io/@neonpimpz">
-  <img align="center" style="height: 200px" src="https://holopin.io/api/user/board?user=neonpimpz" />
+  <img align="center" src="https://holopin.io/api/user/board?user=neonpimpz" />
 </a>
