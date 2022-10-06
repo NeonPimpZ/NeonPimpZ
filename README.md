@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/NeonPimpZ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NeonPimpZ&include_all_commits=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/NeonPimpZ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonPimpZ&layout=compact&theme=tokyonight" />
+</a>
 
-[![@neonpimpz's Holopin board](https://holopin.io/api/user/board?user=neonpimpz)](https://holopin.io/@neonpimpz)
-
-[![neonpimpz's GitHub stats](https://github-readme-stats.vercel.app/api?username=neonpimpz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://holopin.io/@neonpimpz">
+  <img align="center" style="height: 200px" src="https://holopin.io/api/user/board?user=neonpimpz" />
+</a>
